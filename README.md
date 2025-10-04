@@ -1,1 +1,1 @@
-# pred_serie_temporal_inteli
+# Predição Série Temporal Prophet e LSTM
